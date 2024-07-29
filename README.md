@@ -56,7 +56,7 @@ git clone https://github.com/AliRajab12/cbes.git
 2. **Input Gmail Credentials (First Time Only):**
 
 - Upon running the script for the first time, input your Gmail credentials through a secure initial form.
-- Enter your Gmail email address and password and click "Save" to proceed.
+- Enter your Gmail email address and password(App password) and click "Save" to proceed.
 
 3. **Compose and Send Emails:**
 
